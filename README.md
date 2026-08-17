@@ -1,80 +1,348 @@
-<!-- ===== Glowing Animated Header ===== -->
-<h1 align="center">
-  👋 Hey there! I'm Jayaditya
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Creative Developer & AI Explorer | Frontend Developer | Lifelong Learner</strong>
-</p>
+# ⚡ G. JAYADITYA
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Building+Creative+Web+Experiences;Exploring+AI+and+Generative+Tech;Turning+Ideas+into+Code&font=Fira+Code&size=28&pause=1000&color=00FFDD&width=600&center=true" alt="Typing Animation" />
-</p>
+### `Full-Stack Developer` • `AI/ML Builder` • `Creative Engineer`
 
-<!-- ===== Animated Skill Bars ===== -->
-<h2>🛠️ My Skills</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+work+but+do.;Full-Stack+%7C+AI%2FML+%7C+Creative+Development;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Turning+ideas+into+real+products+%F0%9F%9A%80" />
+
+<br><br>
+
+<a href="https://github.com/SpearShard">
+<img src="https://img.shields.io/github/followers/SpearShard?label=Followers&style=for-the-badge&color=58A6FF&logo=github" />
+</a>
+
+<a href="https://github.com/SpearShard?tab=repositories">
+<img src="https://img.shields.io/github/stars/SpearShard?label=Stars&style=for-the-badge&color=58A6FF&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/g-jayaditya">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SpearShard&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 🧠 `> whoami`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   G. Jayaditya                                               │
+│                                                              │
+│   Full-Stack Developer                                       │
+│   AI / ML Builder                                            │
+│   Creative Technologist                                      │
+│                                                              │
+│   I build web applications, AI systems and interactive       │
+│   experiences — usually starting with "what if..."           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I'm a software engineer interested in **full-stack development, AI/ML, interactive experiences and products that sit at the intersection of technology and design.**
+
+I enjoy taking an idea from **"this would be cool" → "wait, this actually works."**
+
+---
+
+## 🚀 `> currently_building`
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Jay AI
+
+A personal AI assistant I'm building around:
+
+- Semantic memory
+- Embeddings
+- RAG
+- Local LLMs
+- Tool calling
+- TypeScript
+
+</td>
+
+<td width="50%">
+
+### 🌌 Galactic
+
+An immersive web experience exploring:
+
+- Next.js
+- React
+- Three.js
+- WebGL
+- GSAP
+- Framer Motion
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚙️ `> tech_stack`
+
+### Languages
+
 <p>
-  HTML5: <img src="https://progress-bar.dev/90/?title=HTML5&width=200&color=FF5733" alt="HTML5 Skill" /><br/>
-  CSS3: <img src="https://progress-bar.dev/85/?title=CSS3&width=200&color=1572B6" alt="CSS3 Skill" /><br/>
-  JavaScript: <img src="https://progress-bar.dev/95/?title=JavaScript&width=200&color=F7DF1E" alt="JavaScript Skill" /><br/>
-  React: <img src="https://progress-bar.dev/90/?title=React&width=200&color=61DAFB" alt="React Skill" /><br/>
-  Next.js: <img src="https://progress-bar.dev/85/?title=Next.js&width=200&color=000000" alt="Next.js Skill" /><br/>
-  Node.js: <img src="https://progress-bar.dev/80/?title=Node.js&width=200&color=339933" alt="Node.js Skill" /><br/>
-  Tailwind CSS: <img src="https://progress-bar.dev/85/?title=Tailwind&width=200&color=06B6D4" alt="Tailwind Skill" /><br/>
-  Python: <img src="https://progress-bar.dev/75/?title=Python&width=200&color=3776AB" alt="Python Skill" /><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,html,css" />
 </p>
 
-<!-- ===== GitHub Stats & 3D Contribution Graph ===== -->
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayaditya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaditya&layout=compact&theme=radical" alt="Top Languages" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaditya&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=jayaditya&theme=dracula" alt="3D Contribution Graph" />
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase" />
 </p>
 
-<!-- ===== Featured Projects with GIFs ===== -->
-<h2>📁 Featured Projects</h2>
-<details>
-<summary>Click to expand!</summary>
+### AI / ML
 
-- [Project 1](https://github.com/jayaditya/project1)  
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Project 1 Demo" width="300"/>
-- [Project 2](https://github.com/jayaditya/project2)  
-  <img src="https://media.giphy.com/media/l2JdYpQvJH78kN6XK/giphy.gif" alt="Project 2 Demo" width="300"/>
-- [Project 3](https://github.com/jayaditya/project3)  
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Project 3 Demo" width="300"/>
-
-</details>
-
-<!-- ===== Connect with Me ===== -->
-<h2>🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/jayaditya"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-green?logo=google-chrome&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,python" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayaditya&color=brightgreen" alt="Profile Views" />
+`Transformers` • `RAG` • `Embeddings` • `Computer Vision` • `Generative AI`
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
 </p>
 
-<!-- ===== Fun Facts & Motivational GIF ===== -->
-<h2>🎉 Fun Facts</h2>
-<details>
-<summary>Click to expand!</summary>
+---
 
-- I love experimenting with **Generative AI** and **creative web effects**  
-- Always exploring **new frameworks and animation libraries**  
-- Motto: *“Creativity is intelligence having fun” – Albert Einstein*  
-- Favorite color theme: Neon + Dark Mode 🌌  
+# 🔥 `> selected_projects`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" alt="Fun GIF" width="300"/>
-</p>
+<table>
+<tr>
 
-</details>
+<td width="50%">
+
+### 🤖 Jay AI
+
+A personal AI assistant exploring persistent semantic memory, knowledge retrieval, RAG and local LLMs.
+
+**TypeScript · Node.js · RAG · Embeddings**
+
+</td>
+
+<td width="50%">
+
+### 🌌 Galactic 3D
+
+An immersive 3D web experience focused on interaction, motion and visual storytelling.
+
+**Next.js · React · Three.js · WebGL · GSAP**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🚀 RockSpace
+
+A startup/agency project focused on building modern digital products and experiences.
+
+**Next.js · React · TypeScript · Supabase**
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI Watermarking
+
+Generative-AI watermarking research involving neural networks and image processing.
+
+**Python · PyTorch · Transformers · NumPy · SciPy**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Terawatt
+
+A project exploring modern product development, interfaces and interactive web experiences.
+
+**React · Next.js · TypeScript**
+
+</td>
+
+<td width="50%">
+
+### 🧑‍💻 MLSA CIT
+
+Technical projects and web development work through the Microsoft Learn Student Ambassadors community.
+
+**React · Next.js · TypeScript · APIs**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ `> things_i_build`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   ▸ Full-Stack Applications                                │
+│   ▸ AI Assistants & Agents                                 │
+│   ▸ RAG & Semantic Memory                                  │
+│   ▸ Interactive 3D Websites                                │
+│   ▸ AI / ML Experiments                                    │
+│   ▸ Developer Tools                                        │
+│   ▸ Startup Products                                       │
+│   ▸ APIs & Backend Systems                                 │
+│   ▸ Weird Ideas That Turn Into Actual Projects             │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🧪 `> currently_exploring`
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   [01] 🤖 Advanced AI Agents                               │
+│   [02] 🧠 Long-Term AI Memory                              │
+│   [03] 🔍 RAG & Semantic Search                            │
+│   [04] 👁️ Computer Vision                                  │
+│   [05] 🌐 3D / WebGL                                       │
+│   [06] ⚡ Real-Time Applications                           │
+│   [07] 🛰️ AI + Aerospace / Space Technology               │
+│   [08] 🏗️ Scalable Full-Stack Architecture                │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 `> github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SpearShard&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpearShard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=SpearShard&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 `> contribution_graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpearShard&theme=github-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 `> achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SpearShard&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 🐍 `> contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SpearShard/SpearShard/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 💭 `> engineering_philosophy`
+
+> **Build first. Learn while building. Make it better.**
+
+I enjoy working on problems where **engineering, design and experimentation overlap**.
+
+Sometimes that means building a production-ready application.
+
+Sometimes it means spending an unreasonable amount of time making a button move 4 pixels.
+
+Both are important.
+
+---
+
+## 🧑‍💻 `> random_fact`
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  I have a questionable habit of turning                    │
+│  "small projects" into full-blown systems.                 │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌐 `> connect`
+
+<div align="center">
+
+<a href="https://github.com/SpearShard">
+<img src="https://img.shields.io/badge/GitHub-SpearShard-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/g-jayaditya">
+<img src="https://img.shields.io/badge/LinkedIn-G.%20Jayaditya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jayaditya530@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `BUILD. BREAK. LEARN. REPEAT.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=140&section=footer" />
+
+</div>
