@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<rect width="900" height="330" rx="28" fill="#0b1017"/>
+<text x="48" y="55" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="27" font-weight="700">CURRENT FOCUS</text>
+<text x="48" y="84" fill="#6f8094" font-family="Arial,sans-serif" font-size="15">Where the energy is going right now</text>
+<path d="M180 245 A165 165 0 0 1 510 245" fill="none" stroke="#1a2633" stroke-width="28" stroke-linecap="round"/>
+<path d="M180 245 A165 165 0 0 1 445 115" fill="none" stroke="#00d9ff" stroke-width="28" stroke-linecap="round"/>
+<text x="345" y="225" text-anchor="middle" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="44" font-weight="800">BUILD</text>
+<text x="345" y="252" text-anchor="middle" fill="#718396" font-family="monospace" font-size="13">PRODUCT ENGINEERING</text>
+<g font-family="Arial,sans-serif">
+<text x="600" y="145" fill="#00d9ff" font-size="18" font-weight="700">01 / FULL-STACK</text>
+<text x="600" y="183" fill="#b8c5d2" font-size="16">shipping usable web products</text>
+<text x="600" y="225" fill="#7c5cff" font-size="18" font-weight="700">02 / AI</text>
+<text x="600" y="263" fill="#b8c5d2" font-size="16">turning models into applications</text>
+</g>
+</svg>

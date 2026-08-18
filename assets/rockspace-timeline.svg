@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390">
+<rect width="1000" height="390" rx="28" fill="#0b1017"/>
+<text x="50" y="58" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="27" font-weight="700">ROCKSPACE / PRODUCT LOOP</text>
+<text x="50" y="88" fill="#6f8094" font-family="Arial,sans-serif" font-size="15">From idea to shipped product</text>
+<path d="M100 205 H900" stroke="#263544" stroke-width="5"/>
+<g font-family="Arial,sans-serif">
+<g><circle cx="130" cy="205" r="22" fill="#00d9ff"/><text x="130" y="211" text-anchor="middle" font-size="16" font-weight="800" fill="#061018">01</text><text x="130" y="155" text-anchor="middle" font-size="17" font-weight="700" fill="#f5f7fa">IDEATE</text><text x="130" y="252" text-anchor="middle" font-size="13" fill="#718396">problem</text></g>
+<g><circle cx="330" cy="205" r="22" fill="#7c5cff"/><text x="330" y="211" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">02</text><text x="330" y="155" text-anchor="middle" font-size="17" font-weight="700" fill="#f5f7fa">DESIGN</text><text x="330" y="252" text-anchor="middle" font-size="13" fill="#718396">experience</text></g>
+<g><circle cx="530" cy="205" r="22" fill="#f3c969"/><text x="530" y="211" text-anchor="middle" font-size="16" font-weight="800" fill="#17130a">03</text><text x="530" y="155" text-anchor="middle" font-size="17" font-weight="700" fill="#f5f7fa">BUILD</text><text x="530" y="252" text-anchor="middle" font-size="13" fill="#718396">engineering</text></g>
+<g><circle cx="730" cy="205" r="22" fill="#49d17d"/><text x="730" y="211" text-anchor="middle" font-size="16" font-weight="800" fill="#07140c">04</text><text x="730" y="155" text-anchor="middle" font-size="17" font-weight="700" fill="#f5f7fa">SHIP</text><text x="730" y="252" text-anchor="middle" font-size="13" fill="#718396">deploy</text></g>
+<g><circle cx="900" cy="205" r="22" fill="#ff6b5f"/><text x="900" y="211" text-anchor="middle" font-size="16" font-weight="800" fill="#1b0907">05</text><text x="900" y="155" text-anchor="middle" font-size="17" font-weight="700" fill="#f5f7fa">ITERATE</text><text x="900" y="252" text-anchor="middle" font-size="13" fill="#718396">repeat</text></g>
+</g>
+<text x="500" y="330" text-anchor="middle" fill="#00d9ff" font-family="monospace" font-size="16">ROCKSPACE / BUILDING DIGITAL PRODUCTS</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<rect width="900" height="470" rx="28" fill="#0b1017"/>
+<text x="48" y="58" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="27" font-weight="700">ENGINEERING STACK</text>
+<text x="48" y="88" fill="#6f8094" font-family="Arial,sans-serif" font-size="15">Relative focus — not a claim of measured proficiency</text>
+<g font-family="Arial,sans-serif" font-size="15" fill="#cbd7e3">
+<text x="50" y="133">React / Next.js</text><text x="50" y="187">TypeScript</text><text x="50" y="241">Python / ML</text>
+<text x="50" y="295">Node / APIs</text><text x="50" y="349">UI / Motion</text><text x="50" y="403">3D Web</text>
+</g>
+<g fill="#172330">
+<rect x="210" y="118" width="570" height="22" rx="11"/><rect x="210" y="172" width="570" height="22" rx="11"/>
+<rect x="210" y="226" width="570" height="22" rx="11"/><rect x="210" y="280" width="570" height="22" rx="11"/>
+<rect x="210" y="334" width="570" height="22" rx="11"/><rect x="210" y="388" width="570" height="22" rx="11"/>
+</g>
+<g fill="#00d9ff">
+<rect x="210" y="118" width="500" height="22" rx="11"/><rect x="210" y="172" width="475" height="22" rx="11"/>
+<rect x="210" y="226" width="390" height="22" rx="11"/><rect x="210" y="280" width="370" height="22" rx="11"/>
+<rect x="210" y="334" width="430" height="22" rx="11"/><rect x="210" y="388" width="305" height="22" rx="11"/>
+</g>
+<g fill="#6f8094" font-family="Arial,sans-serif" font-size="13">
+<text x="720" y="134">88%</text><text x="695" y="188">83%</text><text x="610" y="242">68%</text>
+<text x="590" y="296">65%</text><text x="650" y="350">75%</text><text x="525" y="404">54%</text>
+</g></svg>

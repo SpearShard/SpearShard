@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<rect width="900" height="360" rx="28" fill="#0b1017"/>
+<text x="48" y="58" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="27" font-weight="700">LANGUAGE MIX</text>
+<text x="48" y="88" fill="#6f8094" font-family="Arial,sans-serif" font-size="15">Current repository composition</text>
+<g transform="translate(230 205)">
+<circle r="105" fill="none" stroke="#182331" stroke-width="42"/>
+<circle r="105" fill="none" stroke="#00d9ff" stroke-width="42" stroke-dasharray="310 660" stroke-dashoffset="0" transform="rotate(-90)"/>
+<circle r="105" fill="none" stroke="#7c5cff" stroke-width="42" stroke-dasharray="205 660" stroke-dashoffset="-310" transform="rotate(-90)"/>
+<circle r="105" fill="none" stroke="#f3c969" stroke-width="42" stroke-dasharray="75 660" stroke-dashoffset="-515" transform="rotate(-90)"/>
+<circle r="105" fill="none" stroke="#ff6b5f" stroke-width="42" stroke-dasharray="42 660" stroke-dashoffset="-590" transform="rotate(-90)"/>
+<circle r="105" fill="none" stroke="#49d17d" stroke-width="42" stroke-dasharray="35 660" stroke-dashoffset="-632" transform="rotate(-90)"/>
+<text text-anchor="middle" y="-4" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="28" font-weight="800">STACK</text>
+<text text-anchor="middle" y="24" fill="#6f8094" font-family="Arial,sans-serif" font-size="13">WEB + AI</text>
+</g>
+<g font-family="Arial,sans-serif" font-size="16">
+<circle cx="475" cy="145" r="6" fill="#00d9ff"/><text x="493" y="151" fill="#dbe5ee">TypeScript</text>
+<circle cx="475" cy="185" r="6" fill="#7c5cff"/><text x="493" y="191" fill="#dbe5ee">JavaScript</text>
+<circle cx="475" cy="225" r="6" fill="#f3c969"/><text x="493" y="231" fill="#dbe5ee">Python</text>
+<circle cx="475" cy="265" r="6" fill="#ff6b5f"/><text x="493" y="271" fill="#dbe5ee">Java</text>
+<circle cx="475" cy="305" r="6" fill="#49d17d"/><text x="493" y="311" fill="#dbe5ee">HTML / CSS</text>
+</g></svg>
