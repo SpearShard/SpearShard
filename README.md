@@ -1,208 +1,272 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=G.%20JAYADITYA&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=62&descSize=21&animation=fadeIn&color=0:020617,25:071a2b,55:063b52,80:007c9e,100:00d9ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=G.%20JAYADITYA&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%7C%20PRODUCT%20BUILDER&descAlignY=60&descSize=17&animation=fadeIn&color=0:050505,35:07131c,70:063d52,100:00d9ff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1600&pause=400&color=00D9FF&center=true&vCenter=true&width=950&height=90&lines=%3E+SYSTEM+ONLINE;%3E+FULL-STACK+ENGINEER;%3E+PRODUCT+%2B+DESIGN+%2B+CODE;%3E+BUILDING+ROCKSPACE;%3E+IDEA+%E2%86%92+PRODUCT+%E2%86%92+SHIP" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=850&height=70&lines=%3E+SYSTEM+ONLINE;%3E+FULL-STACK+ENGINEER;%3E+BUILDING+REAL+PRODUCTS;%3E+REACT+%2B+NEXT.JS+%2B+TYPESCRIPT;%3E+PYTHON+%2B+AI+%2B+AUTOMATION;%3E+TURNING+IDEAS+INTO+SHIPPED+SOFTWARE" />
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,threejs,pytorch,postgres,mongodb,docker,aws&perline=12"/>
+<br><br>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=SpearShard&style=for-the-badge&color=00D9FF&label=PROFILE%20VIEWS"/>
+
+<br><br>
 
 <a href="https://github.com/SpearShard">
-<img src="https://img.shields.io/github/followers/SpearShard?style=for-the-badge&logo=github&label=FOLLOWERS&color=00D9FF&labelColor=020617"/>
-</a>
-<a href="https://github.com/SpearShard?tab=repositories">
-<img src="https://img.shields.io/github/stars/SpearShard?style=for-the-badge&logo=github&label=STARS&color=00D9FF&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GITHUB-SPEARSHARD-050505?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"/>
 </a>
 <a href="https://www.linkedin.com/in/g-jayaditya">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=050505"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-THE 3D CONTRIBUTION GRID
+<img src="https://user-images.githubusercontent.com/74038190/216649429-4b7e1f18-5b91-4f8f-8baf-4d2e3f4d8e4f.gif" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ CONTRIBUTION MATRIX`
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpearShard&bg_color=050505&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY%20TELEMETRY" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ ENGINEERING TELEMETRY`
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SpearShard&show_icons=true&hide_border=true&bg_color=050505&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&ring_color=00d9ff&include_all_commits=true&count_private=true"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpearShard&layout=donut-vertical&hide_border=true&bg_color=050505&title_color=00d9ff&text_color=c9d1d9&langs_count=8"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpearShard&theme=transparent&hide_border=true&background=050505&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=666666" width="85%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ THE STACK`
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,cpp,java,html,css,tailwind,threejs,git,github,docker,vercel,supabase,postgres,mongodb,figma&perline=11" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,npm,vscode,linux,postman,cloudflare,aws&perline=9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ BUILD PIPELINE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=400&color=00D9FF&center=true&vCenter=true&width=800&height=55&lines=01+%2F+IDEA;%E2%86%93;02+%2F+DESIGN;%E2%86%93;03+%2F+ENGINEER;%E2%86%93;04+%2F+DEBUG;%E2%86%93;05+%2F+SHIP;%E2%86%93;06+%2F+REPEAT" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ WHAT I BUILD`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### `FULL-STACK`
+
+React  
+Next.js  
+TypeScript  
+Node.js  
+REST APIs  
+PostgreSQL  
+Supabase  
+
+</td>
+
+<td width="33%" align="center">
+
+### `PRODUCT`
+
+Dashboards  
+SaaS platforms  
+Internal tools  
+Interactive UIs  
+Real-time systems  
+Automation  
+
+</td>
+
+<td width="33%" align="center">
+
+### `ENGINEERING`
+
+AI integrations  
+Computer vision  
+ML pipelines  
+Performance  
+3D experiences  
+Cloud deployment  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+# `◉ ROCKSPACE`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=ROCKSPACE&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=BUILDING%20DIGITAL%20PRODUCTS%20THAT%20PEOPLE%20ACTUALLY%20USE&descAlignY=82&descSize=13&color=0:050505,50:07131c,100:00d9ff" width="90%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=700&color=7FDBFF&center=true&vCenter=true&width=750&height=50&lines=PRODUCT+%E2%86%92+DESIGN+%E2%86%92+CODE+%E2%86%92+DEPLOYMENT;FROM+ZERO+TO+PRODUCTION;BUILDING+FOR+REAL+USERS" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ FEATURED SYSTEMS`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<a href="https://github.com/SpearShard/rockspace">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=rockspace&theme=transparent&hide_border=true&bg_color=050505&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/SpearShard/terawatt">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=terawatt&theme=transparent&hide_border=true&bg_color=050505&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<a href="https://github.com/SpearShard/ERP-CRM-portal-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=ERP-CRM-portal-&theme=transparent&hide_border=true&bg_color=050505&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/SpearShard/Galactic-3D">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=Galactic-3D&theme=transparent&hide_border=true&bg_color=050505&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+# `◉ CONTRIBUTION ACTIVITY`
+
+<img src="https://raw.githubusercontent.com/SpearShard/SpearShard/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ CURRENT STATE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1700&pause=500&color=00D9FF&center=true&vCenter=true&width=850&height=100&lines=%5B+ONLINE+%5D;%5B+BUILDING+%5D;%5B+LEARNING+%5D;%5B+SHIPPING+%5D;%5B+REPEAT+%5D" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SpearShard&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `◉ RANDOM ACCESS`
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark" width="600"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%3E%20SHIPPING...&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=fadeIn&color=0:00d9ff,45:063d52,100:050505" width="100%"/>
+
+<br>
 
 <a href="https://github.com/SpearShard">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=SpearShard&theme=night-view&hide_border=true" width="98%"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20MY%20CODE-00D9FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=00D9FF"/>
 </a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpearShard&bg_color=020617&color=7FDBFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=JAYADITYA%20%2F%2F%20BUILD%20ACTIVITY" width="98%"/>
-
-</div>
-
-<br/>
-
-ABOUT
-
-I’m a software engineer who likes taking things from a blank screen to something people can actually use.
-
-My main focus is full-stack development, with a big emphasis on polished interfaces, strong engineering and products that feel good to use. I enjoy jumping between frontend, backend, databases, APIs and the little details that make a product feel finished.
-
-I’m also interested in AI/ML, computer vision, interactive experiences and 3D web development.
-
-Right now, a big part of that energy goes into RockSpace — building digital products, experimenting with ideas and turning rough concepts into working software.
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2100&pause=500&color=7FDBFF&center=true&vCenter=true&width=900&height=80&lines=BUILD+SOMETHING.;MAKE+IT+BEAUTIFUL.;MAKE+IT+USEFUL.;THEN+MAKE+IT+FAST." />
-
-</div>
-
-<br/>
-
-ROCKSPACE
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=ROCKSPACE&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:020617,35:063b52,70:007c9e,100:00d9ff" width="94%"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1900&pause=450&color=00D9FF&center=true&vCenter=true&width=850&height=100&lines=DIGITAL+PRODUCTS;%E2%80%A2+FULL-STACK+ENGINEERING;%E2%80%A2+INTERACTIVE+EXPERIENCES;%E2%80%A2+DESIGN+%2B+TECHNOLOGY;%E2%80%A2+BUILDING+FROM+ZERO" />
-
-</div>
-
-<br/>
-
-RockSpace is where I get to combine product thinking, engineering and design. The goal is simple: take interesting ideas, build them properly and turn them into things that can actually be shipped.
-
-<br/>
-
-3D / CREATIVE ENGINEERING
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=threejs,blender,webgl,react,gsap&perline=5"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=600&color=7FDBFF&center=true&vCenter=true&width=900&height=80&lines=THREE.JS+%2B+WEBGL;%E2%80%A2+3D+INTERFACES;%E2%80%A2+MOTION;%E2%80%A2+INTERACTIVE+EXPERIENCES;%E2%80%A2+VISUAL+EXPERIMENTS" />
-
-</div>
-
-<br/>
-
-STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,cpp,java,html,css,tailwind,threejs,gsap,framer&perline=15"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,aws,docker,git,github,vercel,figma,pytorch,opencv,flask,redis,graphql,prisma&perline=15"/>
-
-</div>
-
-<br/>
-
-ENGINEERING MAP
-
-<div align="center">
-
-
-
-
-
-FRONTEND
-React • Next.js • TypeScript
-Tailwind • Motion • Three.js
-
-BACKEND
-Node • Express • REST APIs
-PostgreSQL • MongoDB • Supabase
-
-AI / ML
-Python • PyTorch • Transformers
-Computer Vision • Embeddings
-
-INFRASTRUCTURE
-AWS • Docker • Git
-Vercel • CI/CD • Cloud
-
-</div>
-
-<br/>
-
-GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SpearShard&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=00D9FF&text_color=E2E8F0&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpearShard&theme=dark&hide_border=true&background=020617&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E2E8F0&dates=64748B" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpearShard&theme=github_dark" width="97%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpearShard&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpearShard&theme=github_dark" width="48%"/>
-
-</div>
-
-<br/>
-
-BUILD LOOP
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=350&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=01+%2F+IDEA;%E2%86%93;%EF%B8%8E+02+%2F+DESIGN;%E2%86%93;%EF%B8%8E+03+%2F+BUILD;%E2%86%93;%EF%B8%8E+04+%2F+BREAK;%E2%86%93;%EF%B8%8E+05+%2F+DEBUG;%E2%86%93;%EF%B8%8E+06+%2F+SHIP" />
-
-</div>
-
-<br/>
-
-CURRENTLY BUILDING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=400&color=00D9FF&center=true&vCenter=true&width=900&height=150&lines=%E2%9A%A1+ROCKSPACE;%E2%9A%A1+FULL-STACK+SYSTEMS;%E2%9A%A1+POLISHED+WEB+EXPERIENCES;%E2%9A%A1+3D+%26+INTERACTIVE+UI;%E2%9A%A1+NEW+PRODUCT+IDEAS" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SpearShard&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=7FDBFF&center=true&vCenter=true&width=900&height=70&lines=%24+git+status;%3E+building...;%3E+experimenting...;%3E+shipping...;%24+git+push;%3E+done." />
-
-<br/><br/>
-
-<a href="https://github.com/SpearShard">
-<img src="https://img.shields.io/badge/GITHUB-SPEARSHARD-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
-</a>
-
-<a href="https://www.linkedin.com/in/g-jayaditya">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:00d9ff,35:007c9e,65:063b52,100:020617&animation=fadeIn" width="100%"/>
 
 </div>
