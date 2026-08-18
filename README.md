@@ -1,160 +1,113 @@
 <div align="center">
 
+<img src="assets/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution landscape"/>
+
 # G. JAYADITYA
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution landscape">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00D9FF&center=true&vCenter=true&width=850&height=70&lines=SOFTWARE+ENGINEER;FULL-STACK+DEVELOPER;REACT+%2F+NEXT.JS+%2F+TYPESCRIPT;BUILDING+ROCKSPACE;TURNING+IDEAS+INTO+REAL+PRODUCTS" />
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=FULL-STACK+ENGINEER;PRODUCT+BUILDER;REACT+%2F+NEXT.JS+%2F+TYPESCRIPT;BUILDING+ROCKSPACE;TURNING+IDEAS+INTO+REAL+PRODUCTS" alt="Typing animation">
+<img src="https://img.shields.io/badge/BUILDING-ROCKSPACE-00D9FF?style=for-the-badge&labelColor=080B10"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-00D9FF?style=for-the-badge&labelColor=080B10"/>
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-00D9FF?style=for-the-badge&labelColor=080B10"/>
 
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/SpearShard">
-<img src="https://img.shields.io/badge/GITHUB-SPEARSHARD-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-SPEARSHARD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=080B10"/>
 </a>
-
 <a href="https://www.linkedin.com/in/g-jayaditya">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B10"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SpearShard&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=SpearShard&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
 ## `CONTRIBUTION // MATRIX`
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D contribution graph">
+<img src="assets/profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D contribution matrix"/>
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
 ## `CONTRIBUTION // SNAKE`
 
-<img src="https://raw.githubusercontent.com/SpearShard/SpearShard/output/github-snake-dark.svg" width="95%" alt="GitHub contribution snake">
+<img src="assets/snake.svg" width="95%" alt="GitHub contribution snake"/>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-
-## `ABOUT // JAY`
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### SOFTWARE
-
-**Full-Stack Development**
-
-React  
-Next.js  
-TypeScript  
-Node.js  
-REST APIs  
-Databases
-
-</td>
-
-<td width="50%" align="center">
-
-### BUILDING
-
-**Product Engineering**
-
-SaaS  
-Interactive Interfaces  
-Automation  
-AI-powered Products  
-Developer Tools  
-Real-world Systems
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## `STACK // LOADED`
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,java,cpp,html,css,tailwind&perline=7"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=threejs,postgres,mongodb,supabase,docker,git,github,vercel,figma,linux,postman,pytorch&perline=6"/>
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
 ## `ROCKSPACE // ACTIVE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=BUILDING+ROCKSPACE;PRODUCT+%E2%86%92+DESIGN+%E2%86%92+ENGINEERING+%E2%86%92+SHIP;BUILDING+FOR+REAL+USERS" alt="RockSpace animation">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=ROCKSPACE&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:050505,50:07131c,100:00d9ff" width="90%" alt="RockSpace"/>
 
-<br><br>
+### `PRODUCT → DEVELOPMENT → DEPLOYMENT`
+
+<br/>
 
 <a href="https://github.com/SpearShard/rockspace">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=rockspace&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=00E5FF&text_color=CBD5E1&icon_color=00E5FF"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=rockspace&theme=github_dark&hide_border=true" width="45%" alt="RockSpace repository"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-
-## `ENGINEERING // ACTIVITY`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpearShard&bg_color=05080D&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY" width="95%" alt="GitHub activity graph">
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
 ## `LANGUAGES // DISTRIBUTION`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpearShard&layout=donut&langs_count=8&hide_border=true&bg_color=05080D&title_color=00E5FF&text_color=CBD5E1" width="60%" alt="Programming languages">
+<img src="assets/profile/languages.dark.svg" width="80%" alt="Programming languages"/>
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
 ## `ENGINEERING // TELEMETRY`
 
-<img src="https://github-readme-stats.vercel.app/api?username=SpearShard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05080D&title_color=00E5FF&text_color=CBD5E1&icon_color=00E5FF&ring_color=00E5FF" width="70%" alt="GitHub statistics">
+<br/>
 
-<br><br>
+<img src="assets/profile/overview.dark.svg" width="80%" alt="GitHub overview"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpearShard&theme=dark&hide_border=true&background=05080D&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=CBD5E1&dates=64748B" width="75%" alt="GitHub streak">
+<br/><br/>
+
+<img src="assets/profile/contributions.dark.svg" width="80%" alt="GitHub contributions"/>
+
+<br/><br/>
+
+<img src="assets/profile/rhythm.dark.svg" width="80%" alt="GitHub coding rhythm"/>
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
@@ -162,78 +115,78 @@ Real-world Systems
 
 <table>
 <tr>
+<td align="center" width="33%">
 
-<td align="center" width="50%">
+### 🚀 ROCKSPACE
 
-<a href="https://github.com/SpearShard/rockspace">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=rockspace&theme=github_dark&hide_border=true&bg_color=05080D&title_color=00E5FF&text_color=CBD5E1&icon_color=00E5FF"/>
-
-</a>
+Building products, websites and digital experiences.
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-<a href="https://github.com/SpearShard">
+### ⚡ FULL-STACK
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpearShard&repo=mlsacit&theme=github_dark&hide_border=true&bg_color=05080D&title_color=00E5FF&text_color=CBD5E1&icon_color=00E5FF"/>
-
-</a>
+React • Next.js • TypeScript • Node.js
 
 </td>
 
+<td align="center" width="33%">
+
+### 🧠 ENGINEERING
+
+Building, breaking, rebuilding and shipping.
+
+</td>
 </tr>
 </table>
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
 ## `GITHUB // TROPHIES`
 
-<img src="https://github-profile-trophy.vercel.app/?username=SpearShard&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=6" width="95%" alt="GitHub trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=SpearShard&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%" alt="GitHub trophies"/>
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
 ## `CURRENT // STATE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1200&pause=350&color=00E5FF&center=true&vCenter=true&width=800&height=120&lines=%5B+BUILDING+%5D;%5B+LEARNING+%5D;%5B+DEBUGGING+%5D;%5B+SHIPPING+%5D;%5B+REPEAT+%5D" alt="System status">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FRONTEND-ONLINE-00E5FF?style=for-the-badge&labelColor=05080D"/>
-<img src="https://img.shields.io/badge/FULL--STACK-ONLINE-00E5FF?style=for-the-badge&labelColor=05080D"/>
-<img src="https://img.shields.io/badge/ROCKSPACE-ACTIVE-00E5FF?style=for-the-badge&labelColor=05080D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=%5B+ONLINE+%5D;%3E+building+RockSpace;%3E+writing+code;%3E+shipping+products;%3E+repeat." />
 
 </div>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
 
-## `TRANSMISSION // END`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=700&height=55&lines=GOOD+SOFTWARE+IS+BUILT%2C+NOT+JUST+WRITTEN.;%3E+SHIP+IT." alt="Closing animation">
-
-<br><br>
-
 <a href="https://github.com/SpearShard">
-<img src="https://img.shields.io/badge/EXPLORE%20THE%20CODE-00E5FF?style=for-the-badge&logo=github&logoColor=05080D"/>
+<img src="https://img.shields.io/badge/◉_EXPLORE_THE_CODE-SPEARSHARD-00D9FF?style=for-the-badge&labelColor=080B10"/>
 </a>
 
 <a href="https://www.linkedin.com/in/g-jayaditya">
-<img src="https://img.shields.io/badge/CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-ffffff?style=for-the-badge&labelColor=080B10"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/SpearShard/SpearShard/output/github-snake-dark.svg" width="95%" alt="Contribution snake">
+<img src="assets/snake-light.svg" width="90%" alt="Contribution snake"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00d9ff,45:063d52,100:050505" width="100%" alt="Footer"/>
 
 </div>
